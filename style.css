@@ -1,0 +1,20 @@
+#h1{
+    color: rgb(23, 167, 4);
+    background-color:rgb(0, 60, 255);
+    border-radius: 5%;
+    border-block-end: 5%;
+    margin-right: 47%;
+}
+#h2{
+    text-align: center;
+    color: rgb(0, 60, 255);
+    background-color:rgb(23, 167, 4);
+    border-style: outset;
+    border-color: rgb(0, 47, 255);
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+#h3{
+    color: rgb(23, 167, 4);
+}
